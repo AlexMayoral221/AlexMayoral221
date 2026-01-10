@@ -1,7 +1,8 @@
 # ¡Hola! 👋 Soy Alex 
 ### Licenciado en Informática | Desarrollador Web
 
-Informático con tres grandes pasiones: el **buen café**, el **Rock** y gritarle a la televisión durante la **Lucha Libre** 🤼. Mi otra habilidad especial: resolver el **Cubo Rubik** más rápido de lo que tardas en cerrar esta ventana. 🧊
+Informático con tres grandes pasiones: el **buen café**, el **Rock** y gritarle a la televisión durante la **Lucha Libre** 🤼. 
+Mi otra habilidad especial: resolver el **Cubo Rubik** más rápido de lo que tardas en cerrar esta ventana. 🧊
 
 ---
 
@@ -28,6 +29,14 @@ Informático con tres grandes pasiones: el **buen café**, el **Rock** y gritarl
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+#### **🧠 Habilidades "Lógicas" (Soft Skills)**
+Así como en el Cubo Rubik o en un buen solo de Rock, aplico estos principios al desarrollo:
+
+- **Pensamiento Algorítmico:** Enfoque analítico para encontrar el camino más corto hacia la solución.
+- **Atención al Detalle:** Si una pieza está fuera de lugar, el cubo no se resuelve; si una coma falta, el código no corre.
+- **Resiliencia (Modo Lucha Libre):** Capacidad para enfrentar "bugs" difíciles y no rendirme hasta ganar la caída.
+
+---
 
 ### 📂 Proyectos Destacados
 
@@ -38,7 +47,7 @@ Informático con tres grandes pasiones: el **buen café**, el **Rock** y gritarl
 
 ### 📩 Contáctame
 
-¡Siempre estoy abierto a colaborar en proyectos interesantes o simplemente charlar sobre tecnología (o música)!
+¡Siempre estoy abierto a colaborar en proyectos interesantes o simplemente charlar sobre tecnología, guitarras o el próximo evento de la WWE!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmayoral140@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@alexmayoral221)
