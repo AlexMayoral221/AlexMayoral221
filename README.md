@@ -40,8 +40,11 @@ Así como en el Cubo Rubik o en un buen solo de Rock, aplico estos principios al
 
 ### 📂 Proyectos Destacados
 
-* **ChefEnCuna:** Plataforma de e-learning centrada en la cocina.
-  [🔗 Ver Código en GitHub](https://github.com/AlexMayoral221/ChefEnCuna)
+* **🍳 ChefEnCuna**
+  - Plataforma de e-learning centrada en la educación culinaria.
+  - **Tecnologías:** PHP nativo, MySQL para gestión de cursos y CSS para la interfaz.
+  - **Logro:** Implementé un sistema de autenticación seguro y una estructura de base de datos que permite la carga dinámica de lecciones y recetas.
+  - [🔗 Ver Código en GitHub](https://github.com/AlexMayoral221/ChefEnCuna)
 
 ---
 
